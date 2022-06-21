@@ -8,7 +8,6 @@
 // @grant        none
 // @not-require  https://unpkg.com/spacingjs
 // @icon         https://lh3.googleusercontent.com/Z21RzHwgZJ25br-OdZV0ME4zjkrEPnsoGm8DGTbgk7x5cP-wpwav91fYtcmchLx_pHonfD_AFGaBj2yAKIvKqFppIA=w128-h128-e365-rj-sc0x00ffffff
-// @run-at       document-start
 // @match        *://*/*
 // ==/UserScript==
 
